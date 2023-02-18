@@ -1,4 +1,4 @@
-# DayZ-Expansion-Market-Forward-Operating-Gear
+# DayZ-Expansion-Market-Forward-Operator-Gear
 Market files for DayZ Expansion Market using Forward Operator Gear
 
 You need the following mods for this to work: DayZ-Expansion-Market or DayZ-Expansion-Bundle which includes DayZ-Expansion-Market and Forward Operator Gear which can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2931560672. 
