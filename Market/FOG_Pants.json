@@ -1,0 +1,69 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - Pants",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Pants_Crye_G3_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Pants_Crye_G3_M81",
+				"FOG_Pants_Crye_G3_MC",
+				"FOG_Pants_Crye_G3_MCB",
+				"FOG_Pants_Crye_G3_GTiger",
+				"FOG_Pants_Crye_G3_AOR1",
+				"FOG_Pants_Crye_G3_AOR2",
+				"FOG_Pants_Crye_G3_CB",
+				"FOG_Pants_Crye_G3_RG",
+				"FOG_Pants_Crye_G3_Grey",
+				"FOG_Pants_Crye_G3_DTGR",
+				"FOG_Pants_Crye_G3_MARPAT",
+				"FOG_Pants_Crye_G3_MCA",
+				"FOG_Pants_Crye_G3_MCAL",
+				"FOG_Pants_Crye_G3_MCT",
+				"FOG_Pants_Crye_G3_RDBS"
+			]
+        },
+		{
+            "ClassName": "FOG_Gorka_Pants_Black",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Pants_Crye_G3_RDBS"
+			]
+        },
+		{
+            "ClassName": "FOG_MTF_Pants_Grey",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_MTF_Pants_RG",
+				"FOG_MTF_Pants_CB",
+				"FOG_MTF_Pants_ERDL",
+				"FOG_MTF_Pants_MC",
+				"FOG_MTF_Pants_MCB",
+				"FOG_MTF_Pants_FK",
+				"FOG_MTF_Pants_TS"
+			]
+        }
+    ]
+}

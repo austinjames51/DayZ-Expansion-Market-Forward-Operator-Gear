@@ -1,0 +1,84 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - Helmets",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Helmet_Airframe_Black",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Helmet_Airframe_CB",
+				"FOG_Helmet_Airframe_RG"
+			]
+        },
+		{
+            "ClassName": "FOG_Helmet_FAST_Bump_Black",
+            "MaxPriceThreshold": 160000,
+            "MinPriceThreshold": 160000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Helmet_FAST_Bump_Tan",
+				"FOG_Helmet_FAST_Bump_RG",
+				"FOG_Helmet_FAST_Bump_Grey",
+				"FOG_Helmet_FAST_Bump_MC",
+				"FOG_Helmet_FAST_Bump_MCB",
+				"FOG_Helmet_FAST_Bump_ERDL"
+			]
+        },
+		{
+            "ClassName": "FOG_Helmet_FASTMT_Black",
+            "MaxPriceThreshold": 170000,
+            "MinPriceThreshold": 170000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Helmet_FASTMT_Tan",
+				"FOG_Helmet_FASTMT_MC"
+			]
+        },
+		{
+            "ClassName": "FOG_Helmet_FAST_SF_Black",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 180000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Helmet_FAST_SF_Tan",
+				"FOG_Helmet_FAST_SF_RG",
+				"FOG_Helmet_FAST_SF_MC",
+				"FOG_Helmet_FAST_SF_MCB",
+				"FOG_Helmet_FAST_SF_ERDL"
+			]
+        },
+		{
+            "ClassName": "FOG_Helmet_Exfil_MC",
+            "MaxPriceThreshold": 190000,
+            "MinPriceThreshold": 190000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - Misc",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Hooded_Cloak_Black",
+            "MaxPriceThreshold": 95000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Hooded_Cloak_Grey",
+				"FOG_Hooded_Cloak_RG"
+			]
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - Shirts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Cronen_Shirt_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Cronen_Shirt_RG",
+				"FOG_Cronen_Shirt_CB",
+				"FOG_Cronen_Shirt_MC"
+			]
+        },
+		{
+            "ClassName": "FOG_511_Shirt_Flanel",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_511_Shirt_Flanel_Black",
+				"FOG_511_Shirt_Flanel_Red",
+				"FOG_511_Shirt_Flanel_Blue",
+				"FOG_511_Shirt_Flanel_Green"
+			]
+        },
+		{
+            "ClassName": "FOG_Crye_G3_Shirt_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Crye_G3_Shirt_MC",
+				"FOG_Crye_G3_Shirt_MCB",
+				"FOG_Crye_G3_Shirt_MCT",
+				"FOG_Crye_G3_Shirt_MCA",
+				"FOG_Crye_G3_Shirt_MCAL",
+				"FOG_Crye_G3_Shirt_6CD",
+				"FOG_Crye_G3_Shirt_AOR1",
+				"FOG_Crye_G3_Shirt_AOR2",
+				"FOG_Crye_G3_Shirt_CB",
+				"FOG_Crye_G3_Shirt_RG",
+				"FOG_Crye_G3_Shirt_DCU",
+				"FOG_Crye_G3_Shirt_DTGR",
+				"FOG_Crye_G3_Shirt_Grey",
+				"FOG_Crye_G3_Shirt_M81",
+				"FOG_Crye_G3_Shirt_MARPAT",
+				"FOG_Crye_G3_Shirt_RDBS",
+				"FOG_Crye_G3_Shirt_TGR"
+			]
+        },
+		{
+            "ClassName": "FOG_Enhanced_PCU_Black",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Enhanced_PCU_Grey",
+				"FOG_Enhanced_PCU_Tan",
+				"FOG_Enhanced_PCU_RG"
+			]
+        },
+		{
+            "ClassName": "FOG_HeavyRiders_Jacket_Black",
+            "MaxPriceThreshold": 110000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_HeavyRiders_Jacket_Teal",
+				"FOG_HeavyRiders_Jacket_Red",
+				"FOG_HeavyRiders_Jacket_Green",
+				"FOG_HeavyRiders_Jacket_RB"
+			]
+        },
+		{
+            "ClassName": "FOG_Hoodie_Jacket_Black",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Hoodie_Jacket_Nike_G",
+				"FOG_Hoodie_Jacket_Patagonia",
+				"FOG_Hoodie_Jacket_FOG",
+				"FOG_Hoodie_Jacket_CDAJ",
+				"FOG_Hoodie_Jacket_MC",
+				"FOG_Hoodie_Jacket_ERDL",
+				"FOG_Hoodie_Jacket_PERDL",
+				"FOG_Hoodie_Jacket_Thrasher",
+				"FOG_Hoodie_Jacket_Supreme",
+				"FOG_Hoodie_Jacket_MLG"
+
+			]
+        },
+		{
+            "ClassName": "FOG_Hoodie_Jacket_Rolled_Black",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Hoodie_Jacket_Rolled_Nike_G",
+				"FOG_Hoodie_Jacket_Rolled_Patagonia",
+				"FOG_Hoodie_Jacket_Rolled_FOG",
+				"FOG_Hoodie_Jacket_Rolled_CDAJ",
+				"FOG_Hoodie_Jacket_Rolled_MC",
+				"FOG_Hoodie_Jacket_Rolled_ERDL",
+				"FOG_Hoodie_Jacket_Rolled_PERDL",
+				"FOG_Hoodie_Jacket_Rolled_Thrasher",
+				"FOG_Hoodie_Jacket_Rolled_Supreme",
+				"FOG_Hoodie_Jacket_Rolled_MLG"
+			]
+        },
+		{
+            "ClassName": "FOG_Shirt_ISOF_Jacket_Black",
+            "MaxPriceThreshold": 95000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Shirt_ISOF_Jacket_MC",
+				"FOG_Shirt_ISOF_Jacket_M81"
+			]
+        },
+		{
+            "ClassName": "FOG_Shirt_Tactical_Coat_Black",
+            "MaxPriceThreshold": 120000,
+            "MinPriceThreshold": 120000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FOG_Shirt_Polo_Black",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Shirt_Polo_Blue",
+				"FOG_Shirt_Polo_NavyBlue",
+				"FOG_Shirt_Polo_OD",
+				"FOG_Shirt_Polo_Trident"
+			]
+        },
+		{
+            "ClassName": "FOG_Jacket_SoftShell_Black",
+            "MaxPriceThreshold": 77000,
+            "MinPriceThreshold": 77000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Jacket_SoftShell_Tan",
+				"FOG_Jacket_SoftShell_Black",
+				"FOG_Jacket_SoftShell_ERDL",
+				"FOG_Jacket_SoftShell_MC",
+				"FOG_Jacket_SoftShell_RG"
+			]
+        },
+		{
+            "ClassName": "FOG_Tactical_Hoodie_Black",
+            "MaxPriceThreshold": 115000,
+            "MinPriceThreshold": 115000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Tactical_Hoodie_MC",
+				"FOG_Tactical_Hoodie_MCB",
+				"FOG_Tactical_Hoodie_UWU",
+				"FOG_Tactical_Hoodie_RG",
+				"FOG_Tactical_Hoodie_ERDL"
+			]
+        },
+		{
+            "ClassName": "FOG_Tshirt_Black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Tshirt_Black_Canoe",
+				"FOG_Tshirt_Black_CrimeCo",
+				"FOG_Tshirt_Black_FOG_Reaper",
+				"FOG_Tshirt_Black_FOG1",
+				"FOG_Tshirt_Black_FOG2",
+				"FOG_Tshirt_Black_MLG",
+				"FOG_Tshirt_Black_Raider",
+				"FOG_Tshirt_Black_Sfartaetc",
+				"FOG_Tshirt_Black_Thrasher",
+				"FOG_Tshirt_CB",
+				"FOG_Tshirt_RG",
+				"FOG_Tshirt_Red",
+				"FOG_Tshirt_White_Pinup",
+				"FOG_Tshirt_White_Star"
+			]
+        },
+		{
+            "ClassName": "FOG_UFJ_Shirt_Black",
+            "MaxPriceThreshold": 55000,
+            "MinPriceThreshold": 55000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_UFJ_Shirt_RG",
+				"FOG_UFJ_Shirt_CB",
+				"FOG_UFJ_Shirt_Grey",
+				"FOG_UFJ_Shirt_ERDL",
+				"FOG_UFJ_Shirt_ERDL_RG"
+			]
+        },
+		{
+            "ClassName": "FOG_Gorka_Jacket_Black",
+            "MaxPriceThreshold": 116000,
+            "MinPriceThreshold": 116000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Gorka_Jacket_Khaki",
+				"FOG_Gorka_Jacket_Black",
+				"FOG_Gorka_Jacket_Green",
+				"FOG_Gorka_Jacket_Partizan",
+				"FOG_Gorka_Jacket_Autumn",
+				"FOG_Gorka_Jacket_Summer"
+			]
+        },
+		{
+            "ClassName": "FOG_MTF_Shirt_Grey",
+            "MaxPriceThreshold": 83000,
+            "MinPriceThreshold": 83000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_MTF_Shirt_RG",
+				"FOG_MTF_Shirt_CB",
+				"FOG_MTF_Shirt_ERDL",
+				"FOG_MTF_Shirt_MC",
+				"FOG_MTF_Shirt_MCB",
+				"FOG_MTF_Shirt_FK",
+				"FOG_MTF_Shirt_TS"
+			]
+        },
+		{
+            "ClassName": "FOG_Tactical_Fleece_Black",
+            "MaxPriceThreshold": 73000,
+            "MinPriceThreshold": 73000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Tactical_Fleece_Grey",
+				"FOG_Tactical_Fleece_RG",
+				"FOG_Tactical_Fleece_CB",
+				"FOG_Tactical_Fleece_MC",
+				"FOG_Tactical_Fleece_Arctic"
+			]
+        }
+    ]
+}

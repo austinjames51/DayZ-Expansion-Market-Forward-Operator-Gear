@@ -1,0 +1,113 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - Vests",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Vest_AVS_Black",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Vest_AVS_MC",
+				"FOG_Vest_AVS_CB",
+				"FOG_Vest_AVS_RG",
+				"FOG_Vest_AVS_AOR1",
+				"FOG_Vest_AVS_AOR2",
+				"FOG_Vest_AVS_ALP"
+			]
+        },
+		{
+            "ClassName": "FOG_Vest_JPC_Black",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 180000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Vest_JPC_CB",
+				"FOG_Vest_JPC_MC",
+				"FOG_Vest_JPC_RG",
+				"FOG_Vest_JPC_AOR1",
+				"FOG_Vest_JPC_AOR2",
+				"FOG_Vest_JPC_ALP"
+			]
+        },
+		{
+            "ClassName": "FOG_Vest_TacTec_Black",
+            "MaxPriceThreshold": 170000,
+            "MinPriceThreshold": 170000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Vest_TacTec_CB",
+				"FOG_Vest_TacTec_RG",
+				"FOG_Vest_TacTec_Grey"
+			]
+        },
+		{
+            "ClassName": "FOG_Vest_Gen4_Black",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Vest_Gen4_Green",
+				"FOG_Vest_Gen4_Tan",
+				"FOG_Vest_Gen4_EMR",
+				"FOG_Vest_Gen4_UCP",
+				"FOG_Vest_Gen4_NWU",
+				"FOG_Vest_Gen4_MARPAT"
+			]
+        },
+		{
+            "ClassName": "FOG_Vest_MMAC_Black",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Vest_MMAC_MC",
+				"FOG_Vest_MMAC_CB",
+				"FOG_Vest_MMAC_RG",
+				"FOG_Vest_MMAC_AOR2"
+			]
+        },
+		{
+            "ClassName": "FOG_Vest_TV110T_Black",
+            "MaxPriceThreshold": 350000,
+            "MinPriceThreshold": 350000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Vest_TV110T_Tan",
+				"FOG_Vest_TV110T_CB",
+				"FOG_Vest_TV110T_RG",
+				"FOG_Vest_TV110T_AU",
+				"FOG_Vest_TV110T_FG",
+				"FOG_Vest_TV110T_MC"
+			]
+        }
+    ]
+}

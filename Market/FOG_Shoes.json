@@ -1,0 +1,35 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - Shoes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Combat_HikingBoots_Brown",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FOG_Operator_Boots_Black",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Operator_Boots_CB",
+				"FOG_Operator_Boots_RG"
+			]
+        }
+    ]
+}
