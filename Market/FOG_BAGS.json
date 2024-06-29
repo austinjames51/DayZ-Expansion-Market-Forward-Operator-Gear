@@ -1,0 +1,149 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - Bags",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Bag_6ShBagT_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bag_6ShBagT_BlackEMR",
+				"FOG_Bag_6ShBagT_Green",
+				"FOG_Bag_6ShBagT_RG",
+				"FOG_Bag_6ShBagT_CB"
+			]
+        },
+		{
+            "ClassName": "FOG_Bergen_Rucksack_Black",
+            "MaxPriceThreshold": 110000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bergen_Rucksack_Green",
+				"FOG_Bergen_Rucksack_Woodland",
+				"FOG_Bergen_Rucksack_Multicam",
+				"FOG_Bergen_Rucksack_ERDL"
+			]
+        },
+		{
+            "ClassName": "FOG_Bag_DrawBridge_Black",
+            "MaxPriceThreshold": 90000,
+            "MinPriceThreshold": 90000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bag_DrawBridge_CB",
+				"FOG_Bag_DrawBridge_RG",
+				"FOG_Bag_DrawBridge_OD",
+				"FOG_Bag_DrawBridge_Tan",
+				"FOG_Bag_DrawBridge_Grey"
+			]
+        },
+		{
+            "ClassName": "FOG_Bag_F4Terminator",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bag_F4Terminator_BlackTiger",
+				"FOG_Bag_F4Terminator_Black",
+				"FOG_Bag_F4Terminator_RG",
+				"FOG_Bag_F4Terminator_CB",
+				"FOG_Bag_F4Terminator_OD"
+			]
+        },
+		{
+            "ClassName": "FOG_Bag_MRASAP_Black",
+            "MaxPriceThreshold": 110000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bag_MRASAP_Grey",
+				"FOG_Bag_MRASAP_RG",
+				"FOG_Bag_MRASAP_CB",
+				"FOG_Bag_MRASAP_MC"
+			]
+        },
+		{
+            "ClassName": "FOG_Bag_BlackJack_Black",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bag_BlackJack_MC",
+				"FOG_Bag_BlackJack_RG",
+				"FOG_Bag_BlackJack_CB",
+				"FOG_Bag_BlackJack_MCB",
+				"FOG_Bag_BlackJack_ERDL"
+
+			]
+        },
+		{
+            "ClassName": "FOG_Bag_SSO_Black",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bag_SSO_Tan",
+				"FOG_Bag_SSO_MC",
+				"FOG_Bag_SSO_CB",
+				"FOG_Bag_SSO_MCB",
+				"FOG_Bag_SSO_Toxic"
+			]
+        },
+		{
+            "ClassName": "FOG_Bag_Trizip_Black",
+            "MaxPriceThreshold": 95000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FOG_Bag_Trizip_Puke",
+				"FOG_Bag_Trizip_RG",
+				"FOG_Bag_Trizip_OD",
+				"FOG_Bag_Trizip_CB",
+				"FOG_Bag_Trizip_RGCB",
+				"FOG_Bag_Trizip_MARPAT",
+				"FOG_Bag_Trizip_ATACSFG",
+				"FOG_Bag_Trizip_DCU",
+				"FOG_Bag_Trizip_ERDL",
+				"FOG_Bag_Trizip_MC"
+			]
+        }
+    ]
+}
