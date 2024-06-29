@@ -16,6 +16,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
+				"FOG_Bag_6ShBagT_BlackEMR",
 				"FOG_Bag_6ShBagT_Green",
 				"FOG_Bag_6ShBagT_RG",
 				"FOG_Bag_6ShBagT_CB"
@@ -49,6 +50,8 @@
             "Variants": [
 				"FOG_Bag_DrawBridge_CB",
 				"FOG_Bag_DrawBridge_RG",
+				"FOG_Bag_DrawBridge_OD",
+				"FOG_Bag_DrawBridge_Tan",
 				"FOG_Bag_DrawBridge_Grey"
 			]
         },
@@ -62,9 +65,11 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
+				"FOG_Bag_F4Terminator_BlackTiger",
 				"FOG_Bag_F4Terminator_Black",
 				"FOG_Bag_F4Terminator_RG",
-				"FOG_Bag_F4Terminator_CB"
+				"FOG_Bag_F4Terminator_CB",
+				"FOG_Bag_F4Terminator_OD"
 			]
         },
 		{
@@ -130,6 +135,7 @@
             "Variants": [
 				"FOG_Bag_Trizip_Puke",
 				"FOG_Bag_Trizip_RG",
+				"FOG_Bag_Trizip_OD",
 				"FOG_Bag_Trizip_CB",
 				"FOG_Bag_Trizip_RGCB",
 				"FOG_Bag_Trizip_MARPAT",
