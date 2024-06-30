@@ -2,7 +2,7 @@
     "m_Version": 12,
     "DisplayName": "#FORWARD OPERATOR GEAR - NVG",
     "Icon": "Deliver",
-    "Color": "FBFCFEFF",
+    "Color": "0096E4FF",
     "IsExchange": 0,
     "InitStockPercent": 100.0,
     "Items": [
@@ -16,7 +16,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_GPNVG_Tarzier",
+				"FOG_GPNVG_Tan",
+				"FOG_GPNVG_RG",
 				"FOG_GPNVG_Elite"
 			]
         },
@@ -29,7 +30,12 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"FOG_PVS31_Wrapped",
+				"FOG_PVS31_FDE",
+				"FOG_PVS31_FDE_Wrapped",
+				"FOG_PVS31A_Black"
+			]
         }
     ]
 }

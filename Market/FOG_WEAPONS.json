@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#FORWARD OPERATOR GEAR - WEAPONS",
+    "Icon": "Deliver",
+    "Color": "0096E4FF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FOG_SOCOM_Slammer_Black",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FOG_BoltCutters",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 180000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FOG_ZynCan_WinterGreen",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 180000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FOG_DR_Tomahawk_Standard",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 180000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FOG_Strongarm_Knife",
+            "MaxPriceThreshold": 120000,
+            "MinPriceThreshold": 120000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
